@@ -102,7 +102,7 @@
                 <li>Liverpool - 26 April - Live Services only</li>
                 <li>Southport - 26 April - Live Services only</li> -->
             </ul>
-                    -->
+                    
 <p><strong>Please keep revisiting this tab for the latest forward look information.</strong></p>
             </div> <!-- wrapper-->
         </div><!-- end register-->
