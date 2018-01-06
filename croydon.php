@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Thursday 25 January 2018 <br> 13:30PM – 15:00 <br> 4th floor, Metropoint, Croydon</span>
+    <span>Thursday 25 January 2018 <br> 13:30PM – 15:00 <br> 4th floor Metropoint, Croydon</span>
 </div>
 
 <div class="container index"> 
@@ -24,7 +24,7 @@
 <div class="img right small">
      <img src="/img/img2.jpg" alt="image of Jackie Keane"/>
 </div> 
-    <p>The first roundtable of 2018 will be held in Croydon and hosted by Jackie Keane, Head of Immigration IT and Dave France, Director of Crime, Police and Fire Group IT </p>
+    <p>The first roundtable of 2018 will be held in Croydon and hosted by Jackie Keane, Head of Immigration IT and Dave France, Director Crime, Police and Fire Group IT </p>
  
 <p>All sessions are open to everyone across DDaT (subject to business commitments). Places must be booked through this app and tickets are available on a first come first served basis. You are not expected to travel specifically to attend a session; further roundtables will be held at each site on a rolling basis so there will be plenty of opportunities to attend throughout the year.</p>
  
@@ -98,7 +98,7 @@
      <p>Don’t forget to bring your Home Office pass. You must show it when you arrive. If you don’t bring it, you may not be able to gain access to the building.</p>
     
     <h3>Address</h3>
-   <p>Metropoint<br>
+   <p>4th Floor Metropoint<br>
 49 Sydenham Road<br>
        Croydon<br>
        CR0 2EU</p>
@@ -133,7 +133,7 @@
 
 <div class="wrapper">
     <img src="/safe.jpg" alt="safe to talk about logo"/>
-   <strong><h4 class="space-space">The suggested roundtable discussion topic to be confirmed.</h4></strong>
+   <strong><h4 class="space-space">The suggested roundtable discussion topic is to be confirmed.</h4></strong>
    <!-- <h3>Background</h3>
   <p>'Let’s Talk About...' is a team briefing tool which is distributed to grades SEO and above for discussing with their teams. Each month we will highlight a specific topic for you to discuss. The topic will be an issue which is important to Capabilities &amp; Resources (C&amp;R) and on which we would like you to feed back your team’s thoughts.</p>
 

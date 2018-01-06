@@ -65,10 +65,10 @@
          <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Croydon - 25 January</span></h3>
      <div>
         <div class="wrapper">   
-            <p>Our next roundtable event in Croydon will be held on 25 January 2018. More information and booking coming soon.</p>
+            <p>Our next roundtable event in Croydon will be held on 25 January 2018.</p>
 <p>Please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications inbox</a> if there are any specific topics or issues you would like added to the agenda.</p>
             <div class="button_container_first">
-                <!--<a class="btTxt" href="/sheffield.php">View event</a>-->
+                <a class="btTxt" href="/croydon.php">View event</a>
             </div>
         </div><!--wrapper-->
         </div><!-- end venue-->  
