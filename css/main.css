@@ -445,6 +445,7 @@ form label > span {
 
 .white iframe {
     height: 550px!important;
+    float: left;
 }
 
 
