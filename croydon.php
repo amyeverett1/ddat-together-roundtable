@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Thursday 25 January 2018 <br> 13:30PM – 15:00 <br> 4th floor Metropoint, Croydon</span>
+    <span>Thursday 25 January 2018 <br> 14:00 – 15:30 <br> 4th floor Metropoint, Croydon</span>
 </div>
 
 <div class="container index"> 
@@ -33,14 +33,14 @@
     <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a> and Rachelle Hembury from the team will be supporting Jackie at the Croydon session as well as representing the Capabilities &amp; Resources/DDaT Champions network.</p>
       
 
-<p><strong>13:30 Start</strong></p>     
+<p><strong>14:00 Start</strong></p>     
 <ul>
     <li>Welcome and open – Jackie and Dave</li>
 <li>HO and DDaT business updates and key developments – Jackie and Dave</li>
 <li>Croydon updates including successes – All</li>
 <li>Questions and discussion topics submitted in advance by attendees – All</li>
     </ul>    
-<p><strong>15:00 Close</strong></p>
+<p><strong>15:30 Close</strong></p>
     <p>Once you have booked a place this will be considered as your commitment to attend. Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you need to cancel your place or have any queries.</p>
                   
     </div> <!-- wrapper-->
