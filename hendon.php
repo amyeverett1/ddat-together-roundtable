@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Bulldog and Snipe, Hendon Data Centre, Colindale | 30 November 2017 | 14:00-15:30</span>
+    <span>Bulldog and Snipe, Hendon Data Centre, Colindale | 7 Februrary 2018 | 14:00-15:30</span>
 </div>
 
 <div class="container index"> 
@@ -114,8 +114,8 @@ NW9 5JE</p>
 
 <div class="wrapper">
     <img src="/safe.jpg" alt="safe to talk about logo"/>
-    <strong><h3 class="space-space">Learning and Development</h3></strong>
-    <h3>Background</h3>
+    <strong><h4 class="space-space">The suggested roundtable discussion topic is to be confirmed.</h4></strong>
+   <!--- <h3>Background</h3>
   <p>‘Let’s talk about…’ gives you and your team an opportunity to get involved in a conversation about how we improve the way we work and share good practice. Each ‘Let’s talk about’ is sponsored by a leader in Capabilities and Resources. This issue is sponsored by Heidi Boswell-Goff, from the Learning and Skills team and is about learning and development.
 </p>
 
@@ -151,7 +151,7 @@ NW9 5JE</p>
  <li>What does being a ‘professional’ mean to you? If applicable, how connected are you with your professions community?</li>
  <li>Where do you go to access learning at work to meet your corporate or development objectives?</li>
  <li>Do you think that the learning you undertake is recognised by managers in the workplace?</li>
-    </ul>
+    </ul>-->
     
      </div><!--wrapper--> 
 </div><!-- end info-->
