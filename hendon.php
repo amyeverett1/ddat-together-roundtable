@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Bulldog and Snipe, Hendon Data Centre, Colindale | 7 Februrary 2018 | 14:00-15:00</span>
+    <span>Bulldog and Snipe, Hendon Data Centre, Colindale <br> 7 Februrary 2018 <br> 14:00-15:00</span>
 </div>
 
 <div class="container index"> 
