@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Bulldog and Snipe, Hendon Data Centre, Colindale | 7 Februrary 2018 | 14:00-15:30</span>
+    <span>Bulldog and Snipe, Hendon Data Centre, Colindale | 7 Februrary 2018 | 14:00-15:00</span>
 </div>
 
 <div class="container index"> 
@@ -19,16 +19,15 @@
  
 <p>This is your opportunity to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.</p>
  
-<p>Pete Rose and Simon Black will head to Hendon for the DDaT roundtable on 30 November at the Hendon Data Centre at 1400-1530 hours. This session forms part of the wider events schedule coordinated by DDaT Communications (eg DDaT Together, DDaT roundtables, DDaT all staff dial-ins).</p>
+<p>Simon Black, Director of Live Services, will head to Hendon for the DDaT roundtable on 7 February at the Hendon Data Centre at 1400-1500 hours. This session forms part of the wider events schedule coordinated by DDaT Communications (eg DDaT Together, DDaT roundtables, DDaT all staff dial-ins).</p>
     
  
 <ul>
-<li>Welcome and open – Pete Rose</li>
+<li>Welcome and open – Simon Black</li>
 <li>Introductions – All</li>
-<li>Business updates and key developments – Pete Rose, Simon Black</li>
+<li>Business updates and key developments – Simon Black</li>
 <li>Hendon updates including successes – All</li>
 <li>Questions and discussion topics submitted in advance by attendees – All</li>
-<li>Let’s Talk About topics eg Creating an Inclusive workplace (Sept/Oct), Learning and Development (Oct/Nov)</li>
     </ul>
 
 <p>Please contact the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications team</a> if you have any queries.</p>
