@@ -32,7 +32,7 @@
 <li>Hendon updates including successes – All</li>
 <li>Questions and discussion topics submitted in advance by attendees – All</li>
     </ul>
-<p><strong>15:30 Close</strong></p>
+<p><strong>15:00 Close</strong></p>
     <p>Once you have booked a place this will be considered as your commitment to attend. Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you need to cancel your place or have any queries.</p>
                   
     </div> <!-- wrapper-->
