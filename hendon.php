@@ -111,7 +111,7 @@ NW9 5JE</p>
   </div><!-- end info-->
 
 
-      <h3><i class="fa fa-comment fa-lg" aria-hidden="true"></i>  <span>Let’s Talk About</span></h3>
+     <!-- <h3><i class="fa fa-comment fa-lg" aria-hidden="true"></i>  <span>Let’s Talk About</span></h3>
   <div>
 
 <div class="wrapper">
@@ -153,9 +153,9 @@ NW9 5JE</p>
  <li>What does being a ‘professional’ mean to you? If applicable, how connected are you with your professions community?</li>
  <li>Where do you go to access learning at work to meet your corporate or development objectives?</li>
  <li>Do you think that the learning you undertake is recognised by managers in the workplace?</li>
-    </ul>-->
+    </ul>
     
-     </div><!--wrapper--> 
+     </div><!--wrapper 
 </div><!-- end info-->
     
 
