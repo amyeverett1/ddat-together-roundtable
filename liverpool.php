@@ -13,9 +13,6 @@
     <div>
         <div class="wrapper">
             <p>This session will be hosted by Simon Black, Head of Service Management &amp; Integration.</p>
-            <div class="img right big">
-                <img src="/img/simon.png" alt="image of Simon Black"/>
-            </div> 
             <p>There is no fixed agenda or formal presentation. The DDaT roundtables are an opportunity for senior managers to share strategic insight and listen to your views.</p>
             <p>You can raise any topic you wish. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.</p>
             <p>You can also raise questions and issues in advance by emailing the HO DDaT Communications inbox. If there are specific subjects you’d like to address this will bwfind out more about the topic to be able to have a more informed discussion on the day.</p>

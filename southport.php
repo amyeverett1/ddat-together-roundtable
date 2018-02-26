@@ -9,64 +9,38 @@
 <div class="container index"> 
 <div class="accordion">    
     
-    
-     <h3><i class="fa fa-list-ol fa-lg" aria-hidden="true"></i> <span>Agenda</span></h3>
-    
-<div>
-<div class="wrapper">
-    
-
-<p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT. We may also theme some of the conversations to address key or topical subjects.</p>
-    
-<div class="img right big">
-     <img src="/img/simon.png" alt="image of Simon Black"/>
-</div> 
-   <p>This session will be hosted by Simon Black, Head of Service Management &amp; Integration.</p>
- 
-<p>There is no fixed agenda or formal presentation. The DDaT roundtables are an opportunity for senior managers to share strategic insight and listen to your views.</p>
- 
-<p>You can raise any topic you wish. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.</p>
- 
-<p>You can also raise questions and issues in advance by emailing the HO DDaT Communications inbox. If there are specific subjects you’d like to address this will bwfind out more about the topic to be able to have a more informed discussion on the day.</p>
-
-<p><strong>13:30pm Start</strong></p>     
-<ul>
-<li>Welcome and open – Simon Black</li>
-<li>Introductions – All</li>
-<li>Business updates and key developments – Simon Black</li>
-<li>Hendon updates including successes – All</li>
-<li>Questions and discussion topics submitted in advance by attendees – All</li>
-    </ul>
-<p><strong>14:30pm Close</strong></p>
-    <p>Once you have booked a place this will be considered as your commitment to attend. Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you need to cancel your place or have any queries.</p>
-    
-    
-    </div> <!-- wrapper-->
-    
-  </div><!-- end agenda-->
-    
-    
+    <h3><i class="fa fa-list-ol fa-lg" aria-hidden="true"></i> <span>Agenda</span></h3>
+    <div>
+        <div class="wrapper">
+            <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT. We may also theme some of the conversations to address key or topical subjects.</p>
+            <p>This session will be hosted by Simon Black, Head of Service Management &amp; Integration.</p>
+            <p>There is no fixed agenda or formal presentation. The DDaT roundtables are an opportunity for senior managers to share strategic insight and listen to your views.</p>
+            <p>You can raise any topic you wish. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.</p>
+            <p>You can also raise questions and issues in advance by emailing the HO DDaT Communications inbox. If there are specific subjects you’d like to address this will bwfind out more about the topic to be able to have a more informed discussion on the day.</p>
+            <p><strong>13:30pm Start</strong></p>     
+            <ul>
+                <li>Welcome and open – Simon Black</li>
+                <li>Introductions – All</li>
+                <li>Business updates and key developments – Simon Black</li>
+                <li>Hendon updates including successes – All</li>
+                <li>Questions and discussion topics submitted in advance by attendees – All</li>
+             </ul>
+            <p><strong>14:30pm Close</strong></p>
+                <p>Once you have booked a place this will be considered as your commitment to attend. Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you need to cancel your place or have any queries.</p>
+        </div> <!-- wrapper-->
+    </div><!-- end agenda-->
     
     <h3><i class="fa fa-user-plus fa-lg" aria-hidden="true"></i> <span>Register to attend</span></h3>
-  <div>
-
-<div class="wrapper white">
-
-    
-    <div class="button_container ticket">
+    <div>
+        <div class="wrapper white">
+            <div class="button_container ticket">
                 <a class="btTxt" target="_blank" href="http://events.eventzilla.net/e/ddat-southport-100pm--215pm-roundtable-2138906006">Book your ticket</a>
             </div>
-    
-     
-    <p class="big-space">Places will be available on a first come, first served basis.  If we reach the maximum number for the space available names will be added to a reserve list.  If you need to cancel your place, eg for operational reasons, please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications inbox</a> as soon as possible so we can reallocate your place. </p>
-     </div><!--wrapper--> 
+        <p class="big-space">Places will be available on a first come, first served basis.  If we reach the maximum number for the space available names will be added to a reserve list.  If you need to cancel your place, eg for operational reasons, please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications inbox</a> as soon as possible so we can reallocate your place. </p>
+        </div><!--wrapper--> 
+    </div><!-- end register-->
 
-  </div><!-- end register-->
 
-   
-    
-    
-    
     <h3><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i> <span>Venue</span></h3>
   <div>
    
