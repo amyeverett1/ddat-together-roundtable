@@ -4,7 +4,7 @@
        <a class="btTxt" href="/index.php"><i class="fa fa-angle-double-left fa-lg" aria-hidden="true"></i> Back to all roundtable events</a>
             </div>    
         </footer>
-
+</div> <!-- end container-->
     
     </body>
 </html>

@@ -64,6 +64,5 @@
   </div><!-- end questions-->
     
 </div> <!--end accordion--> 
-</div> <!-- end container-->
 
 <?php include('footer.php')?>
