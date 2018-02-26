@@ -55,6 +55,7 @@
             
             <ul>
                 <li>Croydon - 25 January</li>
+                <li>Hendon - 7 February</li>
             </ul>
             
         </div><!--wrapper-->
@@ -97,9 +98,6 @@
                 <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. These are the proposed DDaT Roundtable dates for 2018.</p>
                 
               <ul>
-                <li>Hendon - 7 February</li>
-                <li>Bedfont Lakes - 28 February</li>
-               <!-- <li>Manchester - 7 March</li>
                 <li>Liverpool - 8 March</li>
                 <li>Southport - 8 March</li>
                 <li>Sheffield - 15 March</li>

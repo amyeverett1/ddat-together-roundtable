@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Thursday 22 June 2017 <br> 1:00PM - 2:15PM <br> Room 09, Smedley Hydro, Southport, PR8 2HH</span>
+    <span>Room 09, Smedley Hydro, Southport, PR8 2HH  <br> 8 March 2018 <br> 1:30PM - 2:30pm </span>
 </div>
 
 <div class="container index"> 
@@ -15,36 +15,32 @@
 <div>
 <div class="wrapper">
     
-<div class="img left big">
-    <img src="/img/barry.png" alt="image of Barry Gould"/>
-</div>
 
 <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT. We may also theme some of the conversations to address key or topical subjects.</p>
     
 <div class="img right big">
      <img src="/img/simon.png" alt="image of Simon Black"/>
 </div> 
-    <p>The first quarterly roundtable in Southport will be hosted by Simon Black, Head of Live Services, and Barry Gould, Head of Borders IT.</p>
+   <p>This session will be hosted by Simon Black, Head of Service Management &amp; Integration.</p>
  
-<p>All sessions are open to everyone across DDaT (subject to business commitments) and <strong>places must be booked through this app</strong>. Tickets are available on a first come first served basis and waiting lists will be in operation. You are not expected to travel specifically to attend a session; further roundtables will be held at each site on a rolling basis so there will be plenty of opportunities to attend throughout the year. Roundtables will not be used as a channel to announce any major updates – if required, such information would be shared in the usual ways with all staff.</p>
+<p>There is no fixed agenda or formal presentation. The DDaT roundtables are an opportunity for senior managers to share strategic insight and listen to your views.</p>
  
-<p>There is no fixed agenda or formal presentation and you can raise any topic you wish at these events. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.  You can also raise questions and issues in advance by emailing the DDaT Communications team.  Alternatively, if you’d prefer to submit questions and/or flag issues anonymously, please click on the following link: <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/</a> . </p>
-    
-  <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>, please contact us if you have any queries. <strong>Ravdeep Pabla, Barry Gould’s Chief of Staff</strong> will be supporting Simon and Barry at the Southport session.</p> 
-    
+<p>You can raise any topic you wish. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.</p>
+ 
+<p>You can also raise questions and issues in advance by emailing the HO DDaT Communications inbox. If there are specific subjects you’d like to address this will bwfind out more about the topic to be able to have a more informed discussion on the day.</p>
 
-<p><strong>1:00pm Start</strong></p>     
+<p><strong>13:30pm Start</strong></p>     
 <ul>
-    <li>Welcome and open – Simon/Barry</li>
-    <li>Introductions</li>
-    <li>General/business updates and key developments – Simon/Barry</li>
-    <li>Questions and discussion topics submitted in advance by attendees – All</li>
-    <li>Let’s Talk About...Cyber Security and other topics of your choice – All</li>
-    </ul>   
+<li>Welcome and open – Simon Black</li>
+<li>Introductions – All</li>
+<li>Business updates and key developments – Simon Black</li>
+<li>Hendon updates including successes – All</li>
+<li>Questions and discussion topics submitted in advance by attendees – All</li>
+    </ul>
+<p><strong>14:30pm Close</strong></p>
+    <p>Once you have booked a place this will be considered as your commitment to attend. Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you need to cancel your place or have any queries.</p>
     
-<p><strong>2:15pm Close</strong></p>
-    <p>Once you have booked a place this will be considered as your commitment to attend. Calendar appointments and reminders will be sent out before the date but <strong>please keep revisiting this app for the latest updates</strong> or changes to the agenda.</p>
-                  
+    
     </div> <!-- wrapper-->
     
   </div><!-- end agenda-->
