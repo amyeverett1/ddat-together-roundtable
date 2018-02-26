@@ -59,7 +59,7 @@
     <div>
         <div class="wrapper">
             <p>There is no fixed agenda or formal presentation and you can raise any topic you wish at these events.</p>
-            <p>We are keen for attendees to raise questions, issues and suggested discussion topics in advance by emailing the DDaT Communications team.  Alternatively, if you’d prefer to submit questions and/or flag issues anonymously, please click on the following link: <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/</a> .</p>
+            <p>We are keen for attendees to raise questions, issues and suggested discussion topics in advance by emailing the DDaT Communications team.  Alternatively <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">submit questions and/or flag issues anonymously using this link</a>.</p>
         </div><!--wrapper-->
   </div><!-- end questions-->
     

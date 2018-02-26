@@ -49,7 +49,6 @@
                 <li>Sheffield - 4 December</li>
             
             </ul>
- 
 
               <p>Our 2018 roundtables have included:</p>
             
@@ -61,14 +60,8 @@
         </div><!--wrapper-->
     </div><!-- end venue-->
         
-    
-        
-        
-        
-        
-        
-        
-        <h3 class="ui-accordion-header">
+
+        <!-- <h3 class="ui-accordion-header">
          <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Hendon - 7 February</span></h3>
      <div>
         <div class="wrapper">   
@@ -77,11 +70,8 @@
             <div class="button_container_first">
                 <a class="btTxt" href="/hendon.php">View event</a>
             </div>
-        </div><!--wrapper-->
-        </div><!-- end venue-->  
-        
-            
-    
+        </div><!--wrapper
+        </div><!-- end hendon--> 
         
        </div><!--end accordion--> 
     
@@ -93,8 +83,6 @@
     <h3><i class="fa fa-calendar fa-lg" aria-hidden="true"></i> <span>Future events</span></h3>
         <div>
             <div class="wrapper">
-     
-               
                 <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. These are the proposed DDaT Roundtable dates for 2018.</p>
                 
               <ul>
@@ -121,5 +109,6 @@
             </div>    
     </footer>
     
+</div>
     </body>
 </html>
