@@ -12,11 +12,13 @@
     <h3><i class="fa fa-list-ol fa-lg" aria-hidden="true"></i> <span>Agenda</span></h3>
     <div>
         <div class="wrapper">
-            <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT. We may also theme some of the conversations to address key or topical subjects.</p>
-            <p>This session will be hosted by Simon Black, Head of Service Management &amp; Integration.</p>
-            <p>There is no fixed agenda or formal presentation. The DDaT roundtables are an opportunity for senior managers to share strategic insight and listen to your views.</p>
-            <p>You can raise any topic you wish. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.</p>
-            <p>You can also raise questions and issues in advance by emailing the HO DDaT Communications inbox. If there are specific subjects you’d like to address this will bwfind out more about the topic to be able to have a more informed discussion on the day.</p>
+            <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT.</p>
+
+            <p>All sessions are open to everyone across DDaT (subject to business commitments). Places must be booked through this app and tickets are available on a first come first served basis. You are not expected to travel specifically to attend a session; further roundtables will be held at each site on a rolling basis so there will be plenty of opportunities to attend throughout the year.</p>
+
+            <p>There is no fixed agenda or formal presentation and you can raise any topic you wish at these events. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.  You can also raise questions and issues in advance by emailing the DDaT Communications team.  Alternatively, if you’d prefer to submit questions and/or flag issues anonymously, please click on the following link: <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/</a> . </p>
+
+            <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>.</p>
             <p><strong>13:30pm Start</strong></p>     
             <ul>
                 <li>Welcome and open – Simon Black</li>

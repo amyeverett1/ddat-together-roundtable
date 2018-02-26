@@ -21,7 +21,7 @@
  
 <p>There is no fixed agenda or formal presentation and you can raise any topic you wish at these events. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.  You can also raise questions and issues in advance by emailing the DDaT Communications team.  Alternatively, if you’d prefer to submit questions and/or flag issues anonymously, please click on the following link: <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/</a> . </p>
     
-    <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a> and Rachelle Hembury from the team will be supporting Simon at the Croydon session as well as representing the Capabilities &amp; Resources/DDaT Champions network.</p>
+<p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a> and Rachelle Hembury from the team will be supporting Simon at the Croydon session as well as representing the Capabilities &amp; Resources/DDaT Champions network.</p>
       
 
 <p><strong>14:00 Start</strong></p>     
