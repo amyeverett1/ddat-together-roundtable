@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Room 09, Smedley Hydro, Southport, PR8 2HH  <br> 8 March 2018 <br> 1:30PM - 2:30pm </span>
+    <span>Block F, Smedley Hydro, Southport, PR8 2HH  <br> 8 March 2018 <br> 1:30PM - 2:30pm </span>
 </div>
 
 <div class="container index"> 
@@ -19,6 +19,7 @@
             <p>There is no fixed agenda or formal presentation and you can raise any topic you wish at these events. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.  You can also raise questions and issues in advance by emailing the DDaT Communications team.  Alternatively, if you’d prefer to submit questions and/or flag issues anonymously, please <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">submit questions or queries using this link</a>.</p>
 
             <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>.</p>
+              <p>We won't be releasing tickets for this event. If you wish to come along please just turn up.</p>
             <p><strong>13:30pm Start</strong></p>     
             <ul>
                 <li>Welcome and open – Simon Black</li>
@@ -32,17 +33,6 @@
         </div> <!-- wrapper-->
     </div><!-- end agenda-->
     
-    <h3><i class="fa fa-user-plus fa-lg" aria-hidden="true"></i> <span>Register to attend</span></h3>
-    <div>
-        <div class="wrapper white">
-            <div class="button_container ticket">
-                <a class="btTxt" target="_blank" href="http://events.eventzilla.net/e/ddat-southport-100pm--215pm-roundtable-2138906006">Book your ticket</a>
-            </div>
-        <p class="big-space">Places will be available on a first come, first served basis.  If we reach the maximum number for the space available names will be added to a reserve list.  If you need to cancel your place, eg for operational reasons, please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications inbox</a> as soon as possible so we can reallocate your place. </p>
-        </div><!--wrapper--> 
-    </div><!-- end register-->
-
-
     <h3><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i> <span>Venue</span></h3>
     <div>
         <div class="wrapper">    
