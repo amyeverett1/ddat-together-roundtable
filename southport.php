@@ -44,8 +44,7 @@
         <div class="wrapper">
             <p>Don’t forget to bring your Home Office pass. You must show it when you arrive. If you don’t bring it, you may not be able to gain access to the building.</p>
             <h3>Address</h3>
-            <p>Room 09<br>
-                General Register Office<br>
+            <p>Block F<br>
                 Smedley Hydro<br>
                 Trafalgar Road<br>
                 Southport<br>

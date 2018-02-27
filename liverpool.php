@@ -47,7 +47,7 @@
         <div class="wrapper">
             <p>Don’t forget to bring your Home Office pass. You must show it when you arrive. If you don’t bring it, you may not be able to gain access to the building.</p>
             <h3>Address</h3>
-            <p>2nd floor conference room<br> 101 Old Hall Street<br> 2nd Floor<br>IT Operations<br> Liverpool<br>L3 9BP</p>
+            <p>2nd floor training room<br> 101 Old Hall Street<br> 2nd Floor<br>IT Operations<br> Liverpool<br>L3 9BP</p>
             </div><!--wrapper--> 
         </div><!-- end venue-->
         
