@@ -14,12 +14,12 @@
         <div class="wrapper">
             <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT.</p>
 
-            <p>All sessions are open to everyone across DDaT (subject to business commitments). Places must be booked through this app and tickets are available on a first come first served basis. You are not expected to travel specifically to attend a session; further roundtables will be held at each site on a rolling basis so there will be plenty of opportunities to attend throughout the year.</p>
+            <p>All sessions are open to everyone across DDaT (subject to business commitments). You do not need to book in advance; places will be available on a first come first served basis on the day. You are not expected to travel specifically to attend a session; further roundtables will be held at each site on a rolling basis so there will be plenty of opportunities to attend throughout the year.</p>
 
             <p>There is no fixed agenda or formal presentation and you can raise any topic you wish at these events. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.  You can also raise questions and issues in advance by emailing the DDaT Communications team.  Alternatively, if you’d prefer to submit questions and/or flag issues anonymously, please <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">submit questions or queries using this link</a>.</p>
 
             <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>.</p>
-              <p>We won't be releasing tickets for this event. If you wish to come along please just turn up.</p>
+            <p>We won't be releasing tickets for this event. If you wish to come along please just turn up.</p>
             
             <p><strong>10:00am Start</strong></p>     
             <ul>
@@ -30,7 +30,7 @@
             <li>Questions and discussion topics submitted in advance by attendees – All</li>
                 </ul>
             <p><strong>11:00am Close</strong></p>
-                <p>Once you have booked a place this will be considered as your commitment to attend. Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you need to cancel your place or have any queries.</p>    
+                <p>Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you have any queries.</p>    
         </div> <!-- wrapper-->
     </div><!-- end agenda-->
 
