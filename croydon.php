@@ -14,12 +14,7 @@
     
 <div>
 <div class="wrapper">
-    
-<div class="img left">
-    <img src="/img/DaveFrance.png" alt="image of Dave France"/>
-</div>
-
-            <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT.</p>
+         <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT.</p>
 
             <p>All sessions are open to everyone across DDaT (subject to business commitments). You do not need to book in advance; places will be available on a first come first served basis on the day. You are not expected to travel specifically to attend a session; further roundtables will be held at each site on a rolling basis so there will be plenty of opportunities to attend throughout the year.</p>
 
@@ -30,7 +25,7 @@
             <ul>
                 <li>Welcome and open – Pete Rose</li>
                 <li>Introductions – All</li>
-                <li>Business updates and key developments – Pete Rosek</li>
+                <li>Business updates and key developments – Pete Rose</li>
                 <li>Hendon updates including successes – All</li>
                 <li>Questions and discussion topics submitted in advance by attendees – All</li>
              </ul>
