@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Thursday 25 January 2018 <br> 14:00 – 15:30 <br> 4th floor Metropoint, Croydon</span>
+    <span>TBC April 2018 <br> Metropoint, Croydon</span>
 </div>
 
 <div class="container index"> 
@@ -19,30 +19,23 @@
     <img src="/img/DaveFrance.png" alt="image of Dave France"/>
 </div>
 
-<p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT.</p>
-    
-<div class="img right small">
-     <img src="/img/img2.jpg" alt="image of Jackie Keane"/>
-</div> 
-    <p>The first roundtable of 2018 will be held in Croydon and hosted by Jackie Keane, Head of Immigration IT and Dave France, Director Crime, Police and Fire Group IT </p>
- 
-<p>All sessions are open to everyone across DDaT (subject to business commitments). Places must be booked through this app and tickets are available on a first come first served basis. You are not expected to travel specifically to attend a session; further roundtables will be held at each site on a rolling basis so there will be plenty of opportunities to attend throughout the year.</p>
- 
-<p>There is no fixed agenda or formal presentation and you can raise any topic you wish at these events. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.  You can also raise questions and issues in advance by emailing the DDaT Communications team.  Alternatively, if you’d prefer to submit questions and/or flag issues anonymously, please click on the following link: <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/</a> . </p>
-    
-    <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a> and Rachelle Hembury from the team will be supporting Jackie at the Croydon session as well as representing the Capabilities &amp; Resources/DDaT Champions network.</p>
-      
+            <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT.</p>
 
-<p><strong>14:00 Start</strong></p>     
-<ul>
-    <li>Welcome and open – Jackie and Dave</li>
-<li>HO and DDaT business updates and key developments – Jackie and Dave</li>
-<li>Croydon updates including successes – All</li>
-<li>Questions and discussion topics submitted in advance by attendees – All</li>
-    </ul>    
-<p><strong>15:30 Close</strong></p>
-    <p>Once you have booked a place this will be considered as your commitment to attend. Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you need to cancel your place or have any queries.</p>
-                  
+            <p>All sessions are open to everyone across DDaT (subject to business commitments). You do not need to book in advance; places will be available on a first come first served basis on the day. You are not expected to travel specifically to attend a session; further roundtables will be held at each site on a rolling basis so there will be plenty of opportunities to attend throughout the year.</p>
+
+            <p>There is no fixed agenda or formal presentation and you can raise any topic you wish at these events. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.  You can also raise questions and issues in advance by emailing the DDaT Communications team.  Alternatively, if you’d prefer to submit questions and/or flag issues anonymously, please <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">submit questions or queries using this link</a>.</p>
+
+            <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>.</p>
+            <p><strong>TBC Start</strong></p>     
+            <ul>
+                <li>Welcome and open – Pete Rose</li>
+                <li>Introductions – All</li>
+                <li>Business updates and key developments – Pete Rosek</li>
+                <li>Hendon updates including successes – All</li>
+                <li>Questions and discussion topics submitted in advance by attendees – All</li>
+             </ul>
+            <p><strong>TBC Close</strong></p>
+            <p>Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you have any queries.</p> 
     </div> <!-- wrapper-->
     
   </div><!-- end agenda-->
@@ -53,27 +46,7 @@
   <div>
 
 <div class="wrapper white">
-    
-  <div id="eventbrite-widget-container-41705599571"></div>
-
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '41705599571',
-        iframeContainerId: 'eventbrite-widget-container-41705599571',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+    <p>Tickets coming soon.</p>
     <p class="big-space">Places will be available on a first come, first served basis.  If we reach the maximum number for the space available names will be added to a reserve list.  If you need to cancel your place, eg for operational reasons, please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications inbox</a> as soon as possible so we can reallocate your place. </p>
      </div><!--wrapper--> 
 
@@ -98,7 +71,7 @@
      <p>Don’t forget to bring your Home Office pass. You must show it when you arrive. If you don’t bring it, you may not be able to gain access to the building.</p>
     
     <h3>Address</h3>
-   <p>4th Floor Metropoint<br>
+   <p>Metropoint<br>
 49 Sydenham Road<br>
        Croydon<br>
        CR0 2EU</p>
@@ -128,7 +101,7 @@
   </div><!-- end info-->
 
 
-      <h3><i class="fa fa-comment fa-lg" aria-hidden="true"></i>  <span>Let’s Talk About</span></h3>
+    <!--  <h3><i class="fa fa-comment fa-lg" aria-hidden="true"></i>  <span>Let’s Talk About</span></h3>
   <div>
 
 <div class="wrapper">
@@ -168,8 +141,8 @@
     <h3>Feedback</h3>
 <p>A summary of the feedback received on this topic will be shared as part of the next 'Let’s Talk About...' in July.</p>
 
-    -->
-     </div><!--wrapper--> 
+ 
+     </div><!--wrapper 
 </div><!-- end info-->
     
 
