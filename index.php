@@ -55,6 +55,10 @@
             <ul>
                 <li>Croydon - 25 January</li>
                 <li>Hendon - 7 February</li>
+                <li>Liverpool - 8 March</li>
+                <li>Southports - 8 March</li>
+                <li>Sheffield - 15 March</li>
+                
             </ul>
             
         </div><!--wrapper-->
@@ -62,25 +66,25 @@
         
 
       <h3 class="ui-accordion-header">
-         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Liverpool - 8 March</span></h3>
+         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Bedfont Lakes - 27 March</span></h3>
      <div>
         <div class="wrapper">   
-            <p>Our next roundtable event in Liverpool will be held on 8 March 2018.</p>
+            <p>Our next roundtable event in Bedfont Lakes will be held on 27 March 2018.</p>
 <p>Please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications inbox</a> if there are any specific topics or issues you would like added to the agenda.</p>
             <div class="button_container_first">
-                <a class="btTxt" href="/liverpool.php">View event</a>
+                <a class="btTxt" href="/bedfont.php">View event</a>
             </div>
         </div><!--wrapper-->
         </div><!-- end hendon--> 
         
               <h3 class="ui-accordion-header">
-         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Southport - 8 March</span></h3>
+         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Croydon - April</span></h3>
      <div>
         <div class="wrapper">   
-            <p>Our next roundtable event in Southport will be held on 8 March 2018.</p>
+            <p>Our next roundtable event in Croydon will be held on in April 2018.</p>
 <p>Please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications inbox</a> if there are any specific topics or issues you would like added to the agenda.</p>
             <div class="button_container_first">
-                <a class="btTxt" href="/southport.php">View event</a>
+                <a class="btTxt" href="/croydon.php">View event</a>
             </div>
         </div><!--wrapper-->
         </div><!-- end hendon--> 
@@ -98,11 +102,8 @@
                 <p>The Digital, Data and Technology roundtables will take place across our main locations on a quarterly basis. These are the proposed DDaT Roundtable dates for 2018.</p>
                 
               <ul>
-                <li>Sheffield - 15 March</li>
-                <li>Croydon - 27 March</li>
-                <li>Manchester - 25 April - Live Services only</li>
-                <li>Liverpool - 26 April - Live Services only</li>
-                  <li>Southport - 26 April - Live Services only</li>
+                <li>Croydon - 9 May</li>
+                <li>Hendon - 16 May</li>
             </ul>
                     
 <p><strong>Please keep revisiting this tab for the latest forward look information.</strong></p>
