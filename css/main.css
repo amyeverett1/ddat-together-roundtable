@@ -1,5 +1,5 @@
 html {
-    background-color: #0c60a3;
+    background-color: #8F23B3;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -159,7 +159,7 @@ b, strong {
 /* icons */
 
 i {
-    color: #0c60a3;
+    color: #8F23B3;
     width: 42px;
 }
 
@@ -170,7 +170,7 @@ i {
 /* links */
 
 a {
-    color: #0c60a3!important;
+    color: #8F23B3!important;
     text-decoration: none;
     font-weight: 600;
     word-wrap: break-word;
@@ -181,7 +181,7 @@ a:hover {
 }
 
 a > i {
-    width: auto; 
+    width: auto;
 }
 
 /* images */
@@ -210,7 +210,7 @@ img {
 
 .img.big img, .img.big {width: 110px!important;}
 
-.img.left.big { 
+.img.left.big {
     margin-top: 22px;
 }
 
@@ -320,7 +320,7 @@ form label > span {
 .btTxt {
     padding: 10px;
     border-radius: 5px;
-    background-color: #0c60a3;
+    background-color: #8F23B3;
     color: #fff!important;
     border: 0 none;
     border-bottom: 5px solid #0a4d84;
@@ -335,7 +335,7 @@ form label > span {
 }
 
 .btTxt:hover {
-    background-color: #0c60a3;
+    background-color: #8F23B3;
     border-bottom: 5px solid #0a4d84;
     cursor: pointer;
     text-decoration: none;
@@ -397,7 +397,7 @@ form label > span {
 
 .accordion h3.ui-state-active {
     color: #fff!important;
-    background: #0c60a3!important;
+    background: #8F23B3!important;
 }
 
 .accordion > h3.ui-state-active > i {
@@ -408,12 +408,12 @@ form label > span {
     font-size: 1.2em!important;
     text-align: left;
     background: #fff!important;
-    color: #0c60a3!important;
+    color: #8F23B3!important;
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 1px;
     border: 1px solid #dddddd;
-} 
+}
 
 .ui-accordion .ui-accordion-header, .coming-soon .ui-accordion-header {
     padding: .7em .5em .7em .7em!important;
@@ -436,7 +436,7 @@ form label > span {
 
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
     border: 0 none!important;
-    background: #0c60a3!important;
+    background: #8F23B3!important;
 }
 
 .wrapper.vote {
@@ -452,12 +452,12 @@ form label > span {
 /* footer */
 
 footer {
-    padding: 10px 0; 
+    padding: 10px 0;
     clear: both;
 }
 
 footer p  {
-    color: #0c60a3!important;
+    color: #8F23B3!important;
     text-align: center;
     font-size: 0.8em;
     font-family: 'Varela', sans-serif!important;
@@ -468,7 +468,7 @@ footer a {
 }
 
 @media screen  and (max-width : 350px) {
-    
+
     .box img {
         max-width: 70px;
         max-height: 70px;
@@ -484,7 +484,7 @@ footer a {
         color: #fff;
         font-size: 1.7em;
     }
-    
+
     .btTxt {
         font-size: 0.80em;
     }
@@ -493,20 +493,20 @@ footer a {
         width: 200px;
         margin-top: 10px;
     }
-    
+
     .date {
         padding: 0px 0 15px 0;
     }
-    
+
     .date span {
         font-size: 1em;
         line-height: 1.6em;
     }
-    
+
     header {
         height: 80px!important;
     }
-    
+
 }
 
 @media screen and (max-width: 450px) {
@@ -517,29 +517,29 @@ footer a {
     .accordion > h3, .coming-soon > h3 {
         font-size: 1em;
     }
-    
+
     .box h2 {
         line-height: 1.5em;
     }
-    
+
     body {
         font-family: Arial, sans-serif!important;
         font-weight: normal;
     }
-    
+
     header {
         height: 100px!important;
     }
-    
-    
+
+
     .ui-accordion-header span {
         font-size: .9em;
     }
-    
+
     .white iframe {
         width: 100%!important;
     }
-    
+
 
 }
 
@@ -547,7 +547,7 @@ footer a {
         header {
         height: 150px;
     }
-    
+
 }
 @media screen and (max-width: 750px) {
 
@@ -558,27 +558,27 @@ footer a {
         display: block;
         padding-top: 5px;
     }
-    
+
     h3.ui-accordion-header span {
         height: 32px;
         position: absolute;
         padding-top: 6px;
     }
-    
+
     .accordion > h3, .coming-soon > h3 {
         height: 30px;
         font-size: 1em;
     }
-    
+
     .two-lines {
         padding-top: 0!important;
     }
-        
+
 }
 
 
 @media screen and (min-width: 450px) {
-  
+
     .box img {
         display: block;
         max-width: 120px;
@@ -587,48 +587,48 @@ footer a {
         margin: 5px 20px 10px 0;
         float: left;
     }
-    
+
 }
 
 @media screen and (min-width: 585px) {
     .two-lines {
         padding-top: 6px!important;
     }
-    
-    
+
+
    h3.ui-accordion-header span {
        margin-left: -7px;
     }
-    
+
     .coming-soon h3.ui-accordion-header span {
         margin-left: -11px;
     }
-    
+
 }
 
 
 @media screen and (min-width:600px) {
-        
+
     .button_container {
         margin: 5px 0 20px 10px;
         clear: none;
     }
-    
+
 }
 
 @media screen and (min-width: 750px) {
-    
+
     h3.ui-accordion-header span {
         margin-left: 0px;
     }
-    
+
     .coming-soon h3.ui-accordion-header span {
         margin-left: -4px;
     }
 }
- 
+
 @media screen  and (min-width : 800px) {
-    
+
     .index h2 {
         font-size: 1.2em;
     }
@@ -636,33 +636,33 @@ footer a {
     .container {
         padding: 2% 0;
     }
-    
+
     .container.index {
         padding-top: 2%;
         padding-bottom: 2%;
     }
-    
+
     .vote .wrapper {
         float: none;
         margin: 0 auto;
         width: 300px;
     }
-    
+
     #eventzilla-iframe {
         margin: 0 auto;
         width: 600px;
     }
-    
 
-    
+
+
 }
 
 @media screen and (min-width: 900px) {
-    
+
     .index a {
         float: left;
     }
-    
+
     .box.white a, .wrapper a {
         float: none;
     }
@@ -674,6 +674,3 @@ footer a {
         max-width: 990px;
     }
 }
-
-
-
