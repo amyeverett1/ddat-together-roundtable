@@ -287,7 +287,7 @@ form label > span {
     background-color: #002664;
     color: #fff!important;
     border: 0 none;
-    border-bottom: 5px solid #0a4d84;
+    border-bottom: 5px solid #001942;
     text-decoration: none;
     font-weight: normal;
     font-size: 0.85em;
@@ -299,14 +299,14 @@ form label > span {
 
 .btTxt:hover {
     background-color: #002664;
-    border-bottom: 5px solid #0a4d84;
+    border-bottom: 5px solid #001942;
     cursor: pointer;
     text-decoration: none;
 }
 
 .btTxt:active {
      transform: translateY(5px);
-    border-bottom: 1px solid #0a4d84;
+    border-bottom: 1px solid #001942;
 }
 
 .footer_button_container {
@@ -318,7 +318,7 @@ form label > span {
     padding: 10px;
     border-radius: 5px;
     background-color: #fff;
-    color: #0a4d84!important;
+    color: #001942!important;
     border: 1px solid #e0e0e0!important;
     border-bottom: 5px solid #e0e0e0!important;
     text-decoration: none;
