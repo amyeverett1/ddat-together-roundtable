@@ -474,7 +474,7 @@ footer p  {
 
 @media screen and (max-width: 450px) {
     h1 {
-        font-size: 2em;
+        font-size: 1.6em;
     }
 
     .accordion > h3, .coming-soon > h3 {
@@ -489,11 +489,6 @@ footer p  {
         font-family: 'Helvetica Neue', Arial, sans-serif;
         font-weight: normal;
     }
-
-    header {
-        height: 100px!important;
-    }
-
 
     .ui-accordion-header span {
         font-size: .9em;
