@@ -62,7 +62,7 @@ h1 {
   color: #fff!important;
   font-size: 2em;
   font-weight: 300;
-  width: 520px;
+  width: 50%;
   float: left;
 }
 
@@ -73,7 +73,7 @@ p {
 
 .logo_box {
   float: left;
-  width: 400px;
+  width: 42%;
 }
 
 .logo_box img {
@@ -427,6 +427,9 @@ footer p  {
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+
+
+
 @media screen  and (max-width : 350px) {
 
     .box img {
@@ -533,6 +536,29 @@ footer p  {
     .two-lines {
         padding-top: 0!important;
     }
+
+}
+
+@media screen and (max-width: 875px) {
+   h1 {
+     width: 100%;
+     text-align: left;
+     padding-left: 1em;
+   }
+
+   header {
+     height: 150px;
+     float: left;
+   }
+
+  .logo_box {
+    width: 100%;
+  }
+
+  .logo_box img {
+    margin-left: -2em;
+  }
+
 
 }
 
