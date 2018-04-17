@@ -1,10 +1,18 @@
 <?php include('header.php') ?>
-    <h1>Croydon Roundtable</h1>
-</header>
 
+  <div class="head_box">
+    <div class="logo_box">
+      <img src="/img/logo.png" alt="">
+    </div>
+  <h1>Croydon Roundtable</h1>
+</div>
 <div class="date">
     <span>13:30-15:00, 9 May 2018<br>4th floor Metropoint, Croydon</span>
 </div>
+</header>
+
+
+
 
 <div class="container index">
 <div class="accordion">
