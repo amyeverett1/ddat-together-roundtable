@@ -69,20 +69,22 @@ p {
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.date {
-    color:#fff!important;
-    text-align: center;
-    display: block;
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    padding: 5px 0 15px 0;
-    font-size: 1.2em;
-    width: 90%;
-    margin: 0 auto;
+.logo_box {
+  float: left;
+  width: 400px;
 }
 
-.date span {
-        display: block;
+.logo_box img {
+  width: 400px;
+  padding-top: 1.5em;
 }
+
+.head_box {
+  max-width: 800px;
+  float: left;
+  margin-left: 3em;
+}
+
 
 .font-change {
     font-family: sans-serif;

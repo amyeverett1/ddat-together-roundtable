@@ -1,10 +1,15 @@
 <?php include('header.php') ?>
-    <h1>DDaT Together Roundtables</h1>
+
+  <div class="head_box">
+    <div class="logo_box">
+      <img src="/img/logo.png" alt="">
+    </div>
+  <h1>DDaT Together Roundtables</h1>
+</div>
+
+
 </header>
 
-<div class="date">
-    <span>Events across the UK</span>
-</div>
 
 <div class="container index">
 
