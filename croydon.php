@@ -6,9 +6,7 @@
     </div>
   <h1>Croydon Roundtable</h1>
 </div>
-<div class="date">
-    <span>13:30-15:00, 9 May 2018, 4th floor Metropoint, Croydon</span>
-</div>
+
 </header>
 
 
@@ -18,10 +16,14 @@
 <div class="accordion">
 
 
-     <h3><i class="fa fa-list-ol fa-lg" aria-hidden="true"></i> <span>Agenda</span></h3>
+     <h3><i class="fa fa-list-ol fa-lg" aria-hidden="true"></i> <span>Event information</span></h3>
 
 <div>
 <div class="wrapper">
+  <div class="date">
+      <span>13:30-15:00, 9 May 2018 <br> 4th floor Metropoint, Croydon</span>
+  </div>
+
          <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT.</p>
 
             <p>All sessions are open to everyone across DDaT (subject to business commitments). You do not need to book in advance; places will be available on a first come first served basis on the day. You are not expected to travel specifically to attend a session; further roundtables will be held at each site on a rolling basis so there will be plenty of opportunities to attend throughout the year.</p>
