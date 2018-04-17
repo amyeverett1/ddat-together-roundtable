@@ -148,10 +148,6 @@ a > i {
     width: auto;
 }
 
-.fa-globe {
-      margin-left: -5px;
-}
-
 /* images */
 
 img {
@@ -457,15 +453,6 @@ footer p  {
         margin-top: 10px;
     }
 
-    .date {
-        padding: 0px 0 15px 0;
-    }
-
-    .date span {
-        font-size: 1em;
-        line-height: 1.6em;
-    }
-
     header {
         height: 80px!important;
     }
@@ -473,6 +460,7 @@ footer p  {
 }
 
 @media screen and (max-width: 450px) {
+
     h1 {
         font-size: 1.6em;
     }
@@ -606,6 +594,12 @@ footer p  {
     .coming-soon h3.ui-accordion-header span {
         margin-left: -4px;
     }
+
+    .fa-globe {
+          margin-left: -5px;
+    }
+
+
 }
 
 @media screen  and (min-width : 800px) {
