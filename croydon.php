@@ -33,11 +33,11 @@
 <p>The event will be hosted by Joanna Davinson, Steve Connell and Jackie Keane.</p>
 
 
-<div class="image-host-box">
+<!-- <div class="image-host-box">
   <img src="/img/0.jpg">
   <img src="/img/1.jpg">
   <img src="/img/img2.jpg">
-</div>
+</div>-->
 
             <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>.</p>
             <p><strong>13:30 Start</strong></p>
