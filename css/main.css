@@ -58,10 +58,12 @@ h4 {
 }
 
 h1 {
-    text-align: center;
-    color: #fff!important;
-    font-size: 2.7em;
-    font-weight: lighter;
+  text-align: right;
+  color: #fff!important;
+  font-size: 2.4em;
+  font-weight: 300;
+  width: 540px;
+  float: left;
 }
 
 p {
@@ -81,10 +83,8 @@ p {
 
 .head_box {
   max-width: 990px;
-  float: left;
-  margin-left: 3em;
+  margin: 0 auto;
 }
-
 
 .font-change {
     font-family: sans-serif;
