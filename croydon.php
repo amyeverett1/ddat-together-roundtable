@@ -31,6 +31,14 @@
             <p>There is no fixed agenda or formal presentation and you can raise any topic you wish at these events. This is your roundtable to find out more about the wider work of DDaT and discuss developments, local issues and concerns. It is also an opportunity to share information about your work, what your team is doing and your successes.  You can also raise questions and issues in advance by emailing the DDaT Communications team.  Alternatively, if you’d prefer to submit questions and/or flag issues anonymously, please <a href="http://www.homeofficesurveys.homeoffice.gov.uk/s/RoundtableQuestions/">submit questions or queries using this link</a>.</p>
 
 <p>The event will be hosted by Joanna Davinson, Steve Connell and Jackie Keane.</p>
+
+
+<div class="image-host-box">
+  <img src="/img/0.jpg">
+  <img src="/img/1.jpg">
+  <img src="/img/img2.jpg">
+</div>
+
             <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>.</p>
             <p><strong>13:30 Start</strong></p>
             <ul>
