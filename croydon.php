@@ -21,7 +21,7 @@
 <div>
 <div class="wrapper">
   <div class="date">
-      <span>13:30-15:00, 9 May 2018 <br> 4th floor Metropoint, Croydon</span>
+      <span>13:30-14:45, 9 May 2018 <br> Show and tell area, 4th floor <br> Metropoint, Croydon</span>
   </div>
 
          <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT.</p>
@@ -48,7 +48,7 @@
                 <li>Hendon updates including successes – All</li>
                 <li>Questions and discussion topics submitted in advance by attendees – All</li>
              </ul>
-            <p><strong>15:00 Close</strong></p>
+            <p><strong>14:45 Close</strong></p>
             <p>Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you have any queries.</p>
     </div> <!-- wrapper-->
 
