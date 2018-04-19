@@ -60,7 +60,26 @@
   <div>
 
 <div class="wrapper white">
-    <p>Tickets coming soon.</p>
+  <div id="eventbrite-widget-container-45340941978"></div>
+
+<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+  var exampleCallback = function() {
+      console.log('Order complete!');
+  };
+
+  window.EBWidgets.createWidget({
+      // Required
+      widgetType: 'checkout',
+      eventId: '45340941978',
+      iframeContainerId: 'eventbrite-widget-container-45340941978',
+
+      // Optional
+      iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+      onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+  });
+</script>
     <p class="big-space">Places will be available on a first come, first served basis.  If we reach the maximum number for the space available names will be added to a reserve list.  If you need to cancel your place, eg for operational reasons, please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications inbox</a> as soon as possible so we can reallocate your place. </p>
      </div><!--wrapper-->
 
