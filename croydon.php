@@ -44,9 +44,9 @@
             <ul>
                 <li>Welcome and open – Joanna</li>
                 <li>Introductions – All</li>
-                <li>Business updates and key developments – Joanna</li>
-                <li>Hendon updates including successes – All</li>
-                <li>Questions and discussion topics submitted in advance by attendees – All</li>
+                  <li>Business updates and key developments – Joanna</li>
+                  <li>Hendon updates including successes – All</li>
+                  <li>Questions and discussion topics submitted in advance by attendees – All</li>
              </ul>
             <p><strong>14:45 Close</strong></p>
             <p>Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you have any queries.</p>
@@ -104,7 +104,7 @@
      <p>Don’t forget to bring your Home Office pass. You must show it when you arrive. If you don’t bring it, you may not be able to gain access to the building.</p>
 
     <h3>Address</h3>
-   <p>Metropoint<br>
+   <p>Show and tell area, 4th floor <br> Metropoint<br>
 49 Sydenham Road<br>
        Croydon<br>
        CR0 2EU</p>
