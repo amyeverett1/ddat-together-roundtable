@@ -42,11 +42,9 @@
             <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>.</p>
             <p><strong>13:30 Start</strong></p>
             <ul>
-                <li>Welcome and open – Joanna</li>
-                <li>Introductions – All</li>
+                  <li>Welcome and introductions – Joanna/Steve/Jackie</li>
                   <li>Business updates and key developments – Joanna</li>
-                  <li>Hendon updates including successes – All</li>
-                  <li>Questions and discussion topics submitted in advance by attendees – All</li>
+                  <li>Group discussion re topics/questions submitted in advance and/or on the day  – All</li>
              </ul>
             <p><strong>14:45 Close</strong></p>
             <p>Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you have any queries.</p>
