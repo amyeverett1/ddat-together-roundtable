@@ -81,12 +81,12 @@ h4 {
 }
 
 h1 {
-  text-align: right;
+  text-align: center;
   color: #fff!important;
-  font-size: 2em;
+  font-size: 3em;
   font-weight: 300;
   width: 50%;
-  float: left;
+  margin: 1em;
 }
 
 p {
