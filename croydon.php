@@ -1,9 +1,6 @@
 <?php include('header.php') ?>
 
   <div class="head_box">
-    <div class="logo_box">
-      <img src="/img/logo.png" alt="">
-    </div>
   <h1>Croydon Roundtable</h1>
 </div>
 
