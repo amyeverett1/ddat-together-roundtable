@@ -11,7 +11,7 @@
 <div>
 <div class="wrapper">
   <div class="date">
-      <span>Ground floor, Bedfont Lakes, Feltham<br> 22 May 2018 <br> 11:00-12:30 <br> Hosts: Pete Rose, Juliette Layne, Geoff Teale</span>
+      <span>11:00-12:30 ,22 May 2018 <br> Ground floor, Bedfont Lakes, Feltham<br> Hosts: Pete Rose, Juliette Layne, Geoff Teale</span>
   </div>
     <p>The Digital, Data and Technology roundtables are informal face to face sessions with the DDaT senior management team. They are an opportunity for relaxed ‘get to know you and your work’ conversations with colleagues and senior managers who you might not usually meet in your day to day activities and to help build wider awareness, understanding and collaboration across DDaT. Everyone is welcome to attend any DDaT roundtable event (subject to business needs).</p>
 
