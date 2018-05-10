@@ -41,7 +41,8 @@
 
 <div class="wrapper white">
 
-<p>If you would like to join your DDaT colleagues in Bedfont Lakes for this event, please click here to book your place.</p>
+<p>If you would like to join your DDaT colleagues in Bedfont Lakes for this event please book your place below.</p>
+
 
   <div id="eventbrite-widget-container-45965226229"></div>
 
