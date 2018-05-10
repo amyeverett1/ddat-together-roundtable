@@ -68,7 +68,7 @@
 
 
 
-     </div><!--wrapper
+  </div><!--wrapper-->
 
   </div><!-- end register-->
 
