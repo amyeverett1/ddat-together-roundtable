@@ -20,7 +20,7 @@
             <p>The event will be hosted by Pete Rose, Juliette Layne and Geoff Teale.</p>
 
             <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>.</p>
-              <p>We won't be releasing tickets for this event. If you wish to come along please just turn up.</p>
+
             <p><strong>13:30pm Start</strong></p>
             <ul>
                 <li>Welcome and introductions – Juliette</li>
@@ -36,13 +36,33 @@
 
 
 
-  <!--  <h3><i class="fa fa-user-plus fa-lg" aria-hidden="true"></i> <span>Register to attend</span></h3>
+<h3><i class="fa fa-user-plus fa-lg" aria-hidden="true"></i> <span>Register to attend</span></h3>
   <div>
 
 <div class="wrapper white">
 
+<p>If you would like to join your DDaT colleagues in Bedfont Lakes for this event, please click here to book your place.</p>
 
-   <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=39548059310&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+  <div id="eventbrite-widget-container-45965226229"></div>
+
+  <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+  <script type="text/javascript">
+      var exampleCallback = function() {
+          console.log('Order complete!');
+      };
+
+      window.EBWidgets.createWidget({
+          // Required
+          widgetType: 'checkout',
+          eventId: '45965226229',
+          iframeContainerId: 'eventbrite-widget-container-45965226229',
+
+          // Optional
+          iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+          onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+      });
+  </script>
 
     <p>If you experience any issues booking your ticket please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HODDaTcommunications@homeoffice.gsi.gov.uk</a></p>
 
