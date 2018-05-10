@@ -21,13 +21,13 @@
 
             <p>These events are coordinated by <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications</a>.</p>
 
-            <p><strong>13:30pm Start</strong></p>
+            <p><strong>11:00am Start</strong></p>
             <ul>
                 <li>Welcome and introductions – Juliette</li>
                 <li>Business updates and key developments – Pete, Geoff, Juliette</li>
                 <li>Group discussion re topics/questions submitted in advance and/or on the day – All</li>
              </ul>
-            <p><strong>14:45pm Close</strong></p>
+            <p><strong>12:30pm Close</strong></p>
             <p>Please contact <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">HO DDaT Communications</a> if you have any queries.</p>
 
     </div> <!-- wrapper-->
