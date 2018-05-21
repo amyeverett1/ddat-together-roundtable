@@ -61,6 +61,7 @@
                 <li>Southports - 8 March</li>
                 <li>Sheffield - 15 March</li>
                 <li>Bedfont Lakes - 27 March</li>
+                <li>Croydon - 9 May</li>
 
             </ul>
 
@@ -69,14 +70,10 @@
 
 
               <h3 class="ui-accordion-header">
-         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Croydon - 9 May</span></h3>
+         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Bedfont Lakes</span></h3>
      <div>
         <div class="wrapper">
-            <p>Our next roundtable event in Croydon will be held on on 9th May 2018.</p>
-<p>Please email the <a href="mailto:HODDaTcommunications@homeoffice.gsi.gov.uk">DDaT Communications inbox</a> if there are any specific topics or issues you would like added to the agenda.</p>
-            <div class="button_container_first">
-                <a class="btTxt" href="/croydon.php">View event</a>
-            </div>
+            <p>The next DDaT roundtable will be held in Bedfont Lakes (Feltham) and will be hosted by Juliette Layne and Geoff Teale.  Please contact <a mailto="Rachelle.Hembury@homeoffice.gsi.gov.uk">Rachelle.Hembury@homeoffice.gsi.gov.uk</a> or <a href="Mandeep.Khosa@homeoffice.gsi.gov.uk">Mandeep.Khosa@homeoffice.gsi.gov.uk</a> if you would like to attend this event. 
         </div><!--wrapper-->
         </div><!-- end hendon-->
 
