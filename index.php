@@ -70,7 +70,7 @@
 
 
               <h3 class="ui-accordion-header">
-         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Bedfont Lakes</span></h3>
+         <i class="fa fa-globe fa-lg" aria-hidden="true"></i> <span>Bedfont Lakes - 22 May</span></h3>
      <div>
         <div class="wrapper">
             <p>The next DDaT roundtable will be held in Bedfont Lakes (Feltham) and will be hosted by Juliette Layne and Geoff Teale.  Please contact <a mailto="Rachelle.Hembury@homeoffice.gsi.gov.uk">Rachelle.Hembury@homeoffice.gsi.gov.uk</a> or <a href="Mandeep.Khosa@homeoffice.gsi.gov.uk">Mandeep.Khosa@homeoffice.gsi.gov.uk</a> if you would like to attend this event. 
